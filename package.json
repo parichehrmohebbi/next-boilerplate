@@ -8,8 +8,10 @@
     "e2e:headless": "start-server-and-test dev http://localhost:3000 \"cypress run --e2e\"",
     "component": "cypress open --component",
     "component:headless": "cypress run --component",
-    "test": "jest --watch",
-    "test:ci": "jest --ci",
+    "test": "jest  --config jest/jest.config.js",
+    "test:watch": "jest --config jest/jest.config.js --watch",
+    "test:coverage": "jest --config jest/jest.config.js --coverage",
+    "test:ci": "jest --config jest/jest.config.js --ci",
     "cypress:run": "cypress run",
     "cypress:open": "cypress open"
   },

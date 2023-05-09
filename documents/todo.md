@@ -1,0 +1,10 @@
+- add manifest.json and icon folder with different sizes
+- add more hooks
+- Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options.
+- for hosting more fonts visit: https://gwfh.mranftl.com/fonts
+- add fetcher
+- add error handle
+- add endpoint wrappers
+- add interceptors
+- configure PWA and service worker
+- add varaibles and more sass templates

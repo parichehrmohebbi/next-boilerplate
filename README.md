@@ -33,5 +33,5 @@
 - <a href='https://jestjs.io/docs/getting-started'>Jest documentation</a>
 - <a href='https://swr.vercel.app/'>SWR documentation</a>
 - <a href='https://storybook.js.org/'>Storybook documentation</a>
-- <a href='https://gwfh.mranftl.com/fonts'>Hosting more fonts</a>
+- <a href='https://gwfh.mranftl.com/fonts'>Google WebFonts Helper</a>
 - <a href='https://www.npmjs.com/package/json-server'>JSON Server documentation</a>

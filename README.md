@@ -30,6 +30,7 @@
 - <a href='https://nextjs.org/docs' target='_blank'> TypeScript documentation </a>
 - <a href='https://tailwindcss.com/'>TailwindCSS documentation</a>
 - <a href='https://www.cypress.io/'>Cypress documentation</a>
+- <a href='https://jestjs.io/docs/getting-started'>Jest documentation</a>
 - <a href='https://swr.vercel.app/'>SWR documentation</a>
 - <a href='https://storybook.js.org/'>Storybook documentation</a>
 - <a href='https://gwfh.mranftl.com/fonts'>Hosting more fonts</a>

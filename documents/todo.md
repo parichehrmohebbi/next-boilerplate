@@ -11,3 +11,4 @@
 - configure chromatic with storybook
 - create a design system with storybook
 - add most usable components
+- solve layout issue in storybook

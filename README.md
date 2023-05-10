@@ -21,7 +21,7 @@
 - Jest is configured in jest folder containiong jest.config.js and jest.setup.js
 - Storybook is configured in .storybook folder containg preview.js and main.jas
 - you can define the mock data structure in db.json file placed in jsonServer folder in the root directory
-- you can update your application metadata in src>core>siteConfig>headConfing
+- you can update your application metadata in src->core->siteConfig->headConfing
 - you can place your documents in the folder with the same name preferably in .md format
 - you can define a header and fotter for the app in the related components or simply remove it from layout, nested layout woulbe be added in next updates
 

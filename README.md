@@ -12,7 +12,7 @@
 - run 'npm run cypress:run' to run end-to-end testing
 - run 'npm run cypress:open' to open the cypress dashboard for observing your end-to-end test result
 - run 'npm run storybook' to lunch storaybook dashboard of your stories
-- run 'npm run serve-json' to host json server mock APIs on 'localhost:4000' id you need some mock data
+- run 'npm run serve-json' to host json server mock APIs on 'localhost:4000' in case you need some mock data
 
 ## More to know
 

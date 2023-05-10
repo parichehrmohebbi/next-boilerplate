@@ -25,6 +25,6 @@
 - Tailwind documentation: https://tailwindcss.com/
 - Cypress documentation: https://www.cypress.io/
 - SWR documentation: https://swr.vercel.app/
-- storybook documentation: https://storybook.js.org/
-- hosting more fonts: https://gwfh.mranftl.com/fonts
-- json Server documentation: https://www.npmjs.com/package/json-server
+- Storybook documentation: https://storybook.js.org/
+- Hosting more fonts: https://gwfh.mranftl.com/fonts
+- JSON Server documentation: https://www.npmjs.com/package/json-server

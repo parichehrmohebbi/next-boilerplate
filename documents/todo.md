@@ -1,15 +1,13 @@
 - add manifest.json and icon folder with different sizes
-- add more hooks
-- Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options.
-- for hosting more fonts visit: https://gwfh.mranftl.com/fonts
-- https://www.getfishtank.com/blog/configuring-nextjs-typescript-tailwind-storybook
-- add fetcher
-- add error handle
+- add more usefull hooks
+- add fetcher functions wrappers
+- add error handling logic
 - add endpoint wrappers
-- add interceptors
+- add interceptors for response and request
 - configure PWA and service worker
-- add varaibles and more sass templates
+- add varaibles and more Sass templates
 - configure chromatic with storybook
 - create a design system with storybook
-- add most usable components
+- add some usable components
 - solve layout issue in storybook
+- solve image issue in storybook

@@ -12,9 +12,10 @@
 - run 'npm run cypress:run' to run end-to-end testing
 - run 'npm run cypress:open' to open the cypress dashboard for observing your end-to-end test result
 - run 'npm run storybook' to lunch storaybook dashboard of your stories
-- run 'npm run serve-json' to host json server mock APIs on 'localhost:4000' id you need some mock data 
+- run 'npm run serve-json' to host json server mock APIs on 'localhost:4000' id you need some mock data
 
 ## More to know
+
 - Typescript is configured in tsconfig.ts file
 - Cypress is configured in cypress.config.js
 - TailwindCSS is configured in tailwind.config.js
@@ -26,6 +27,7 @@
 - you can define a header and fotter for the app in the related components or simply remove it from layout, nested layout woulbe be added in next updates
 
 ## References
+
 - <a href='https://nextjs.org/docs' target='_blank'> Next.JS documentation </a>
 - <a href='https://nextjs.org/docs' target='_blank'> TypeScript documentation </a>
 - <a href='https://tailwindcss.com/'>TailwindCSS documentation</a>

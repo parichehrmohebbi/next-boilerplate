@@ -18,7 +18,7 @@
 
 - Jest is configured in jest folder containiong jest.config.js and jest.setup.js
 - Storybook is configured in .storybook folder containg preview.js and main.js
-- Typescript is configured in tsconfig.ts file
+- Typescript is configured in tsconfig.json file
 - Cypress is configured in cypress.config.js
 - TailwindCSS is configured in tailwind.config.js
 - you can define the mock data structure in db.json file placed in jsonServer folder in the root directory

@@ -22,7 +22,7 @@
 
 ## References
 
-- Tailwind documentation: https://tailwindcss.com/
+- TailwindCSS documentation: https://tailwindcss.com/
 - Cypress documentation: https://www.cypress.io/
 - SWR documentation: https://swr.vercel.app/
 - Storybook documentation: https://storybook.js.org/

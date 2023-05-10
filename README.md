@@ -27,10 +27,10 @@
 
 ## References
 - <a href='https://nextjs.org/docs' target='_blank'> Next.JS documentation </a>
-- TypeScript documentation https://www.typescriptlang.org/docs/
-- TailwindCSS documentation: https://tailwindcss.com/
-- Cypress documentation: https://www.cypress.io/
-- SWR documentation: https://swr.vercel.app/
-- Storybook documentation: https://storybook.js.org/
-- Hosting more fonts: https://gwfh.mranftl.com/fonts
-- JSON Server documentation: https://www.npmjs.com/package/json-server
+- <a href='https://nextjs.org/docs' target='_blank'> TypeScript documentation </a>
+- <a href='https://tailwindcss.com/'>TailwindCSS documentation</a>
+- <a href='https://www.cypress.io/'>Cypress documentation</a>
+- <a href='https://swr.vercel.app/'>SWR documentation</a>
+- <a href='https://storybook.js.org/'>Storybook documentation</a>
+- <a href='https://gwfh.mranftl.com/fonts'>Hosting more fonts</a>
+- <a href='https://www.npmjs.com/package/json-server'>JSON Server documentation</a>

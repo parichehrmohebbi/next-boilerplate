@@ -37,4 +37,4 @@
 - <a href='https://storybook.js.org/'>Storybook documentation</a>
 - <a href='https://gwfh.mranftl.com/fonts'>Google WebFonts Helper</a>
 - <a href='https://www.npmjs.com/package/json-server'>JSON Server documentation</a>
-- <a href='https://sass-lang.com/documentation/'> SASS documentation</a>
+- <a href='https://sass-lang.com/documentation/'> Sass documentation</a>

@@ -8,3 +8,6 @@
 - add interceptors
 - configure PWA and service worker
 - add varaibles and more sass templates
+- configure chromatic with storybook
+- create a design system with storybook
+- add most usable components

@@ -26,7 +26,7 @@
 - you can define a header and fotter for the app in the related components or simply remove it from layout, nested layout woulbe be added in next updates
 
 ## References
-- Next.JS documentation https://nextjs.org/docs
+- <a href='https://nextjs.org/docs' target='_blank'> Next.JS documentation </a>
 - TypeScript documentation https://www.typescriptlang.org/docs/
 - TailwindCSS documentation: https://tailwindcss.com/
 - Cypress documentation: https://www.cypress.io/

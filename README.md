@@ -1,6 +1,6 @@
 ## About this repository
 
-- This is a Next.Js boilerplate configured to support: Typescript, Tailwind CSS, Storybook, Cypress, Jest, React Testing Library, SWR, Sass
+- This is a Next.Js boilerplate configured to support: Typescript, Tailwind CSS, Storybook, Cypress, Jest, React Testing Library, SWR
 - It helps you start your Next.JS project faster and more easily containing some samples on each of the technologies used
 
 ## How to get it work
@@ -37,4 +37,3 @@
 - <a href='https://storybook.js.org/'>Storybook documentation</a>
 - <a href='https://gwfh.mranftl.com/fonts'>Google WebFonts Helper</a>
 - <a href='https://www.npmjs.com/package/json-server'>JSON Server documentation</a>
-- <a href='https://sass-lang.com/documentation/'> Sass documentation</a>
